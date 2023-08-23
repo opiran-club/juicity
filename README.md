@@ -17,9 +17,11 @@ bash <(curl -fsSL https://raw.githubusercontent.com/opiran-club/juicity/main/jui
 
 ### plugin
 
-Juicity PLUGIN for Nekobox or Matsuri   ====>>  https://github.com/MatsuriDayo/plugins/releases/tag/juicity-test-3
+ - [Juicity-PLUGIN/Nekobox/Matsuri](https://github.com/MatsuriDayo/plugins/releases/tag/juicity-test-3)
 
-##### ‼️ DO NOT FORGET TO PUT "ALLOW IN SECURE" ON "TRUE" ‼️
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+‼️
+ - DO NOT FORGET TO PUT "ALLOW IN SECURE" ON "TRUE" ‼️
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
