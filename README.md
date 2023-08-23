@@ -1,11 +1,13 @@
 
-THIS IS THE FORK WITH ADDING SNI VARIABLES
+‼️ THIS IS THE FORK WITH ADDING SNI VARIABLES
 
 ### JUICITY GITHUB PAGE ===>>  https://github.com/juicity/juicity
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #### I just add the SNI as a variable put your SNI during installation
 
-### Installation
+### ‼️ Installation
 
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/opiran-club/juicity/main/juicity.sh --ipv4)
@@ -17,4 +19,4 @@ bash <(curl -fsSL https://raw.githubusercontent.com/opiran-club/juicity/main/jui
 
 
 
-#### DO NOT FORGET TO PUT "ALLOW IN SECURE" ON "TRUE"
+#### ‼️ DO NOT FORGET TO PUT "ALLOW IN SECURE" ON "TRUE" ‼️
