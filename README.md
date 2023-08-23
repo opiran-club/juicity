@@ -15,9 +15,9 @@ bash <(curl -fsSL https://raw.githubusercontent.com/opiran-club/juicity/main/jui
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### plugin
+### Android plugin
 
- - [Juicity-PLUGIN/Nekobox/Matsuri](https://github.com/MatsuriDayo/plugins/releases/tag/juicity-test-3)
+ - [Juicity-PLUGIN-for-Nekobox&Matsuri](https://github.com/MatsuriDayo/plugins/releases/tag/juicity-test-3)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ‼️
