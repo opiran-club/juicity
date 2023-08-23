@@ -1,7 +1,7 @@
 
 ‼️ THIS IS THE FORK WITH ADDING SNI VARIABLES
 
-##### Juicity is a quic-based proxy protocol and implementation, inspired by tuic (with many thanks) ===>>  https://github.com/juicity/juicity
+[Juicity is a quic-based proxy protocol and implementation, inspired by tuic (with many thanks)](https://github.com/juicity/juicity)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
